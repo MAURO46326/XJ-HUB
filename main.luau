@@ -1,9 +1,3 @@
---[[ 
-    XJ HUB - MAXIMUS DARK BLUE (THE FINAL FIX)
-    Status: NOCLIP LIGA/DESLIGA 100% | ANTI-TROPEÇO BLINDADO
-    Atalho: RightControl
-]]
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
